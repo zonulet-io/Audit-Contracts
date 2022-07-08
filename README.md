@@ -9,4 +9,4 @@ https://github.com/zonulet-io/Audit-Contracts/blob/main/Harmony/Zonulet-Harmony.
 
 ### https://github.com/coinscope-co/audits/blob/main/zonu/audit.pdf
 
-[x] Rebrand from ZooHarmony to Zonulet
+- [x] Rebrand from ZooHarmony to Zonulet
