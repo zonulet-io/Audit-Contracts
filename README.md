@@ -1,5 +1,6 @@
 
 # Audit by Coinscope: 
+- [x] Rebrand from ZooHarmony to Zonulet
 
 ### Security Audit on Harmony Network: 
 https://github.com/zonulet-io/Audit-Contracts/blob/main/Harmony/Zonulet-Harmony.pdf
@@ -12,4 +13,4 @@ https://github.com/zonulet-io/Audit-Contracts/blob/main/Polygon/Zonulet-Polygon.
 
 ### https://github.com/coinscope-co/audits/blob/main/zonu/audit.pdf
 
-- [x] Rebrand from ZooHarmony to Zonulet
+
